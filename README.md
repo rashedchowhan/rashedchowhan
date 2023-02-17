@@ -5,7 +5,7 @@
 
 
      my name is rashed iqball chouhan
-  🌱 I’m currently studying in third sem computer science engineering
+  🌱 I’m currently studying computer science engineering
       I'm 20 years old 
 - 🌱 I’m currently learning cpp...
 - 🤔 I’m looking for help with coding, 
